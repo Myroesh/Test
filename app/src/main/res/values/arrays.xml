@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="titulos">
+        <item>@string/main_rp1_titulo</item>
+        <item>@string/main_rp2_titulo</item>
+        <item>@string/main_rp3_titulo</item>
+        <item>@string/main_rp4_titulo</item>
+        <item>@string/main_rp5_titulo</item>
+        <item>@string/main_rp6_titulo</item>
+        <item>@string/main_rp7_titulo</item>
+        <item>@string/main_rp8_titulo</item>
+        <item>@string/main_rp9_titulo</item>
+        <item>@string/main_rp10_titulo</item>
+
+    </string-array>
+
+    <string-array name="tiempos">
+        <item>@string/main_rp1_tiempo</item>
+        <item>@string/main_rp1_tiempo</item>
+        <item>@string/main_rp1_tiempo</item>
+        <item>@string/main_rp1_tiempo</item>
+        <item>@string/main_rp1_tiempo</item>
+        <item>@string/main_rp1_tiempo</item>
+        <item>@string/main_rp1_tiempo</item>
+        <item>@string/main_rp1_tiempo</item>
+        <item>@string/main_rp1_tiempo</item>
+        <item>@string/main_rp1_tiempo</item>
+    </string-array>
+
+    <integer-array name="imagenes">
+        <item>@drawable/r1</item>
+        <item>@drawable/p2</item>
+        <item>@drawable/p3</item>
+        <item>@drawable/p4</item>
+        <item>@drawable/p5</item>
+        <item>@drawable/p6</item>
+        <item>@drawable/p7</item>
+        <item>@drawable/p8</item>
+        <item>@drawable/p9</item>
+        <item>@drawable/p10</item>
+    </integer-array>
+    <string-array name="detalles">
+        <item>@string/main_rp1_detalle</item>
+        <item>@string/main_rp2_detalle</item>
+        <item>@string/main_rp3_detalle</item>
+        <item>@string/main_rp4_detalle</item>
+        <item>@string/main_rp5_detalle</item>
+        <item>@string/main_rp6_detalle</item>
+        <item>@string/main_rp7_detalle</item>
+        <item>@string/main_rp8_detalle</item>
+        <item>@string/main_rp9_detalle</item>
+        <item>@string/main_rp10_detalle</item>
+    </string-array>
+    <string-array name="likes">
+        <item>@string/main_rp1_likes</item>
+        <item>@string/main_rp2_likes</item>
+        <item>@string/main_rp3_likes</item>
+        <item>@string/main_rp4_likes</item>
+        <item>@string/main_rp5_likes</item>
+        <item>@string/main_rp6_likes</item>
+        <item>@string/main_rp7_likes</item>
+        <item>@string/main_rp8_likes</item>
+        <item>@string/main_rp9_likes</item>
+        <item>@string/main_rp10_likes</item>
+    </string-array>
+    <string-array name="ingredientes">
+        <item>@string/main_rp1_Ingredientes</item>
+        <item>@string/main_rp2_Ingredientes</item>
+        <item>@string/main_rp3_Ingredientes</item>
+        <item>@string/main_rp4_Ingredientes</item>
+        <item>@string/main_rp5_Ingredientes</item>
+        <item>@string/main_rp6_Ingredientes</item>
+        <item>@string/main_rp7_Ingredientes</item>
+        <item>@string/main_rp8_Ingredientes</item>
+        <item>@string/main_rp9_Ingredientes</item>
+        <item>@string/main_rp10_Ingredientes</item>
+    </string-array>
+</resources>

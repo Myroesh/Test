@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardView"
+    android:layout_margin="5dp"
+    app:cardBackgroundColor="@color/colorPrimaryDark"
+    app:cardCornerRadius="10dp"
+    app:cardElevation="5dp"
+    app:contentPadding="5dp"
+    android:foreground="?selectableItemBackground"
+    android:clickable="true"
+    android:focusable="true"
+    android:background="@drawable/degradado"
+
+    android:layout_marginTop="1dp"
+    android:layout_marginBottom="1dp"
+    android:alpha="0.9">
+<!--    <LinearLayout android:orientation="vertical"-->
+
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:padding="5dp">-->
+
+        <ImageView
+            android:id="@+id/ivImagen"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:adjustViewBounds="true"
+            android:layout_weight="1"
+            android:scaleType="centerCrop"
+            android:src="@mipmap/ic_launcher_round"
+            android:alpha="0.8"
+            ></ImageView>
+        <TextView
+            android:id="@+id/tvTitulo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="recipe name"
+            android:gravity="center_horizontal"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="60dp"
+            android:textColor="@color/text"/>
+        <TextView
+            android:id="@+id/tvTiempo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="tiempo"
+            android:textSize="15sp"
+            android:textStyle="bold|italic"
+            android:gravity="center_horizontal"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:textColor="@color/text"
+            android:layout_marginTop="87dp"/>
+
+<!--    </LinearLayout>-->
+</androidx.cardview.widget.CardView>

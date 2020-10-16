@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Recetas</string>
+    <string name="main_titulo">RecipeList</string>
+    <string name="detalle_titulo">Receta</string>
+    <string name="detalle_tv_nombre">Nombre</string>
+    <string name="detalle_tv_tiempo">tiempo</string>
+
+    <string name="main_rp1_titulo">Spaguetti Carbonara</string>
+    <string name="main_rp2_titulo">Pollo al horno</string>
+    <string name="main_rp3_titulo">Bistec</string>
+    <string name="main_rp4_titulo">Sopa de fideos</string>
+    <string name="main_rp5_titulo">Spaguetti putanesca </string>
+    <string name="main_rp6_titulo">Fideos salteados</string>
+    <string name="main_rp7_titulo">Paella</string>
+    <string name="main_rp8_titulo">Pescado al horno</string>
+    <string name="main_rp9_titulo">Helado</string>
+    <string name="main_rp10_titulo">Pie de limon</string>
+
+
+
+    <string name="main_rp1_tiempo">15 min</string>
+    <string name="main_rp2_tiempo">20 min</string>
+    <string name="main_rp3_tiempo">25 min</string>
+    <string name="main_rp4_tiempo">1 hr</string>
+    <string name="main_rp5_tiempo">1 hr 30 min</string>
+    <string name="main_rp6_tiempo">50 min</string>
+    <string name="main_rp7_tiempo">30 min</string>
+    <string name="main_rp8_tiempo">20 min</string>
+    <string name="main_rp9_tiempo">25 min</string>
+    <string name="main_rp10_tiempo">30 min</string>
+
+    <string name="main_rp1_detalle">Receta 1</string>
+    <string name="main_rp2_detalle">Receta 2</string>
+    <string name="main_rp3_detalle">Receta 3</string>
+    <string name="main_rp4_detalle">Receta 4</string>
+    <string name="main_rp5_detalle">Receta 5</string>
+    <string name="main_rp6_detalle">Receta 6</string>
+    <string name="main_rp7_detalle">Receta 7</string>
+    <string name="main_rp8_detalle">Receta 7</string>
+    <string name="main_rp9_detalle">Receta 9</string>
+    <string name="main_rp10_detalle">Receta 10</string>
+
+    <string name="main_rp1_likes">1340</string>
+    <string name="main_rp2_likes">10</string>
+    <string name="main_rp3_likes">1450</string>
+    <string name="main_rp4_likes">1200</string>
+    <string name="main_rp5_likes">180</string>
+    <string name="main_rp6_likes">840</string>
+    <string name="main_rp7_likes">945</string>
+    <string name="main_rp8_likes">250</string>
+    <string name="main_rp9_likes">740</string>
+    <string name="main_rp10_likes">10</string>
+
+
+    <string name="main_rp1_Ingredientes">Ingrediente1
+    Ingrediente2</string>
+    <string name="main_rp2_Ingredientes">Ingredientes para 2</string>
+    <string name="main_rp3_Ingredientes">Ingredientes para 3</string>
+    <string name="main_rp4_Ingredientes">Ingredientes para 4</string>
+    <string name="main_rp5_Ingredientes">Ingredientes para 5</string>
+    <string name="main_rp6_Ingredientes">Ingredientes para 6</string>
+    <string name="main_rp7_Ingredientes">Ingredientes para 7</string>
+    <string name="main_rp8_Ingredientes">Ingredientes para 8</string>
+    <string name="main_rp9_Ingredientes">Ingredientes para 9</string>
+    <string name="main_rp10_Ingredientes">Ingredientes para 10</string>
+</resources>
